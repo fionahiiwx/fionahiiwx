@@ -1,89 +1,93 @@
-<link href='https://fonts.googleapis.com/css?family=Kalam' rel='stylesheet'>
-<style>
-    * {
-        font-family: 'Kalam';
-        text-align: center;
-    }
-    #banner {
-        width: 100%;
-        margin: auto;
-    }
-    #title {
-        font-size: 300%;
-    }
-    #subtitle {
-        font-size: 250%;
-    }
-    .icons {
-        width: 20px;
-        height: 20px;
-        animation: transform_title 4s infinite;
-    }
-    .title_icons {
-        width: 25px;
-        height: 25px;
-        margin-left: 5px;
-        margin-right: 5px;
-        animation: transform_title 4s infinite;
-    }
-    .subtitle_icons {
-        vertical-align: middle;
-        width: 100px;
-        height: 50px;
-    }
-    @keyframes transform_title {
-        0% {
-            transform: rotate(-25deg);
-        }
-        50% {
-            transform: rotate(25deg);
-        }
-        100% {
-            transform: rotate(-25deg);
-        }
-    }
-    .intro, #ds, #gene, #art {
-        display: inline-block;
-    }
-    #prog_bar {
-        display: flex;
-        width: 100%;
-        max-width: 300px; /* Adjust the max-width to your preference */
-        margin: auto; /* Center the prog-bar within its container */
-        border-radius: 20px;
-        background-color: white;
-    }
-    #bar {
-        height: 20px;
-        width: 66%;
-        border-radius: 20px;
-        background-color: pink;
-        color: red;
-        font-size: 70%;
-    }
-    h3 {
-        margin-top: 30px;
-        margin-bottom: 10px;
-    }
-    #lang_app {
-        width: 64px;
-        height: 64px;
-    }
-    .image-container {
-    width: 100%;
-    margin: 10px;
-    text-align: center;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    }
-    .image {
-        vertical-align: middle;
-        margin: 10px;
-        max-width: 100%;
-    }
-</style>
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <link href='https://fonts.googleapis.com/css?family=Kalam' rel='stylesheet'>
+        <style>
+            * {
+                font-family: 'Kalam';
+                text-align: center;
+            }
+            #banner {
+                width: 100%;
+                margin: auto;
+            }
+            #title {
+                font-size: 300%;
+            }
+            #subtitle {
+                font-size: 250%;
+            }
+            .icons {
+                width: 20px;
+                height: 20px;
+                animation: transform_title 4s infinite;
+            }
+            .title_icons {
+                width: 25px;
+                height: 25px;
+                margin-left: 5px;
+                margin-right: 5px;
+                animation: transform_title 4s infinite;
+            }
+            .subtitle_icons {
+                vertical-align: middle;
+                width: 100px;
+                height: 50px;
+            }
+            @keyframes transform_title {
+                0% {
+                    transform: rotate(-25deg);
+                }
+                50% {
+                    transform: rotate(25deg);
+                }
+                100% {
+                    transform: rotate(-25deg);
+                }
+            }
+            .intro, #ds, #gene, #art {
+                display: inline-block;
+            }
+            #prog_bar {
+                display: flex;
+                width: 100%;
+                max-width: 300px; /* Adjust the max-width to your preference */
+                margin: auto; /* Center the prog-bar within its container */
+                border-radius: 20px;
+                background-color: white;
+            }
+            #bar {
+                height: 20px;
+                width: 66%;
+                border-radius: 20px;
+                background-color: pink;
+                color: red;
+                font-size: 70%;
+            }
+            h3 {
+                margin-top: 30px;
+                margin-bottom: 10px;
+            }
+            #lang_app {
+                width: 64px;
+                height: 64px;
+            }
+            .image-container {
+            width: 100%;
+            margin: 10px;
+            text-align: center;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            }
+            .image {
+                vertical-align: middle;
+                margin: 10px;
+                max-width: 100%;
+            }
+        </style>
+    </foreignObject>
+</svg>
 
 <img id="banner" src="https://media.giphy.com/media/gMirGc1JyjoyY/giphy.gif">
 <h2 id="title">Welcome To My <img class="title_icons" src="https://img.icons8.com/dusk/64/christmas-star.png" alt="christmas-star"/>GITHUB<img width="25" height="25" class="title_icons" src="https://img.icons8.com/dusk/64/christmas-star.png" alt="christmas-star"/>!<h2>
@@ -93,7 +97,7 @@
 
 <p>University Completion Bar:</p>
 <div id="prog_bar">
-  <div id="bar">66%</div>
+<div id="bar">66%</div>
 </div>
 
 <br>
