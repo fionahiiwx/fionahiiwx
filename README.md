@@ -1,1 +1,1 @@
-### Yaho! Welcome to my ![pikachu](https://user-images.githubusercontent.com/115472181/230768660-f60cbaf5-c34e-4608-a055-29ec9104a40d.gif) GITHUB 
+### Yaho! Welcome to my ![image](https://github.com/fionahiiwx/fionahiiwx/assets/51852464/25fe702b-5220-467f-b28e-4dc3a9c2576a) GITHUB 
