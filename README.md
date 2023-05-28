@@ -1,17 +1,8 @@
 ![Banner](https://media.giphy.com/media/gMirGc1JyjoyY/giphy.gif)
 
-## Welcome To My GitHub! 
+# Welcome To My GitHub! 
 
----
-
-University Completion Bar:
-<div id="prog_bar">
-  <div id="bar">66%</div>
-</div>
-
----
-
-I am in my 2nd year of my university degree in data science ![Data Science](https://img.icons8.com/dusk/64/combo-chart--v1.png) and genetics ![Genetics](https://img.icons8.com/dusk/64/biotech.png). Just someone who really loves arts ![Drawing](https://img.icons8.com/dusk/64/drawing.png) and then discovered the art of programming/coding. All these repositories are either from university or my curious mind.
+I am in my 2nd year of my university degree in data science and genetics. Just someone who really loves arts and then discovered the art of programming/coding. All these repositories are either from university or my curious mind.
 
 ---
 
