@@ -1,1 +1,3 @@
-### Yaho! Welcome to my ![h](https://tenor.com/bXbmP.gif) GITHUB ![h](https://tenor.com/bUR8F.gif)
+![](https://tenor.com/bUR8F.gif)
+### Yaho! Welcome to my GITHUB!
+
