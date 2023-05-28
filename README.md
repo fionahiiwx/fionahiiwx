@@ -1,141 +1,28 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <link href='https://fonts.googleapis.com/css?family=Kalam' rel='stylesheet'>
-        <style>
-            * {
-                font-family: 'Kalam';
-                text-align: center;
-            }
-            #banner {
-                width: 100%;
-                margin: auto;
-            }
-            #title {
-                font-size: 300%;
-            }
-            #subtitle {
-                font-size: 250%;
-            }
-            .icons {
-                width: 20px;
-                height: 20px;
-                animation: transform_title 4s infinite;
-            }
-            .title_icons {
-                width: 25px;
-                height: 25px;
-                margin-left: 5px;
-                margin-right: 5px;
-                animation: transform_title 4s infinite;
-            }
-            .subtitle_icons {
-                vertical-align: middle;
-                width: 100px;
-                height: 50px;
-            }
-            @keyframes transform_title {
-                0% {
-                    transform: rotate(-25deg);
-                }
-                50% {
-                    transform: rotate(25deg);
-                }
-                100% {
-                    transform: rotate(-25deg);
-                }
-            }
-            .intro, #ds, #gene, #art {
-                display: inline-block;
-            }
-            #prog_bar {
-                display: flex;
-                width: 100%;
-                max-width: 300px; /* Adjust the max-width to your preference */
-                margin: auto; /* Center the prog-bar within its container */
-                border-radius: 20px;
-                background-color: white;
-            }
-            #bar {
-                height: 20px;
-                width: 66%;
-                border-radius: 20px;
-                background-color: pink;
-                color: red;
-                font-size: 70%;
-            }
-            h3 {
-                margin-top: 30px;
-                margin-bottom: 10px;
-            }
-            #lang_app {
-                width: 64px;
-                height: 64px;
-            }
-            .image-container {
-            width: 100%;
-            margin: 10px;
-            text-align: center;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            align-items: center;
-            }
-            .image {
-                vertical-align: middle;
-                margin: 10px;
-                max-width: 100%;
-            }
-        </style>
-    </foreignObject>
-</svg>
+![Banner](https://media.giphy.com/media/gMirGc1JyjoyY/giphy.gif)
+# Welcome To My :star:GitHub:star:!
 
-<img id="banner" src="https://media.giphy.com/media/gMirGc1JyjoyY/giphy.gif">
-<h2 id="title">Welcome To My <img class="title_icons" src="https://img.icons8.com/dusk/64/christmas-star.png" alt="christmas-star"/>GITHUB<img width="25" height="25" class="title_icons" src="https://img.icons8.com/dusk/64/christmas-star.png" alt="christmas-star"/>!<h2>
+---
 
-<hr>
-<br>
+I am in my 2nd year of my university degree in data science and genetics. Just someone who really loves arts ! and then discovered the art of programming/coding. All these repositories are either from university or my curious mind.
 
-<p>University Completion Bar:</p>
-<div id="prog_bar">
-<div id="bar">66%</div>
-</div>
+---
 
-<br>
+## Learning/Polishing :star2:
 
-<p class="intro">
-I am in my 2nd year of my university degree in data science
-<img class="icons" id="ds" src="https://img.icons8.com/dusk/64/combo-chart--v1.png"/>
-and genetics
-<img class="icons" id="gene" src="https://img.icons8.com/dusk/64/biotech.png"/>
-. Just someone who really loves arts
-<img class="icons" id="art" src="https://img.icons8.com/dusk/64/drawing.png" alt="drawing"/>
-and then discovered the art of programming/coding. All these repositories are either from university or my curious mind.
-</p>
+### Languages
+- ![HTML](https://img.icons8.com/dusk/64/html-5.png)
+- ![CSS3](https://img.icons8.com/dusk/64/css3.png)
+- ![JavaScript](https://img.icons8.com/dusk/64/javascript-logo.png)
+- ![Python](https://img.icons8.com/dusk/64/python.png)
+- ![R](https://img.icons8.com/dusk/64/registered-trademark.png)
 
-<br>
-<hr>
-<br>
+### Applications
+- ![Anaconda](https://img.icons8.com/dusk/64/anaconda.png)
+- ![VisualStudioCode](https://img.icons8.com/dusk/64/visual-studio-code-2019.png)
+- ![IbisPaintX](https://img.icons8.com/dusk/64/ibis-paint-x.png)
 
-<h2 id="subtitle"><img class="subtitle_icons" src=https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif>Learning/Polishing<h2>
+---
 
-<h3>Languages</h3>
-<img class="lang_app" src="https://img.icons8.com/dusk/64/html-5.png" alt="html-5"/>
-<img class="lang_app" src="https://img.icons8.com/dusk/64/css3.png" alt="css3"/>
-<img class="lang_app" src="https://img.icons8.com/dusk/64/javascript-logo.png" alt="javascript-logo"/>
-<img class="lang_app" src="https://img.icons8.com/dusk/64/python.png" alt="python"/>
-<img class="lang_app" src="https://img.icons8.com/dusk/64/registered-trademark.png" alt="r-logo"/>
-
-<h3>Applications</h3>
-<img class="lang_app" src="https://img.icons8.com/dusk/64/anaconda.png" alt="anaconda"/>
-<img class="lang_app" src="https://img.icons8.com/dusk/64/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<img class="lang_app" src="https://img.icons8.com/dusk/64/ibis-paint-x.png" alt="ibis-paint-x"/>
-
-<br>
-<hr>
-<br>
-
-<h2 id="subtitle"><img class="subtitle_icons" src=https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif>Bye~<h2>
-<div class="image-container">
-    <img class="image" src="https://media.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif" alt="Image 1">
-    <img class="image" src="https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif" alt="Image 2">
-</div>
+## Bye~ :wave:
+![Image 1](https://media.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif)
+![Image 2](https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif)
