@@ -1,2 +1,2 @@
-![](https://giphy.com/gifs/cute-anime-kawaii-pixels-gMirGc1JyjoyY)
+![](https://media.giphy.com/media/gMirGc1JyjoyY/giphy.gif)
 ### Yaho! Welcome to my GITHUB!
