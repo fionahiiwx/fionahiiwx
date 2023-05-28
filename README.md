@@ -1,1 +1,1 @@
-### Yaho! Welcome to my ![star](https://tenor.com/bUR8F.gif) GITHUB ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+### Yaho! Welcome to my ![star](https://tenor.com/view/cute-bear-gif-19327241) GITHUB 
