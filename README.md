@@ -9,31 +9,31 @@ I am in my 2nd year of my university degree in data science and genetics. Just s
 ### Languages
 | Rank | Languages |
 |-----:|-----------|
-|     1| ![HTML5](https://img.icons8.com/dusk/64/html-5.png) HTML|
-|     2| Python    |
-|     3| SQL       |
-|     4| SQL       |
-|     5| SQL       |
-|     6| SQL       |
-|     7| SQL       |
-![HTML5](https://img.icons8.com/dusk/64/html-5.png)
-![CSS3](https://img.icons8.com/dusk/64/css3.png)
-![JavaScript](https://img.icons8.com/dusk/64/javascript-logo.png)
-![Python](https://img.icons8.com/dusk/64/python.png)
-![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png)
+|     1| ![Python](https://img.icons8.com/dusk/64/python.png) Python |
+|     2| ![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png) R |
+|     3| ![HTML5](https://img.icons8.com/dusk/64/html-5.png) HTML |
+|     4| ![CSS3](https://img.icons8.com/dusk/64/css3.png) CSS |
+|     5| ![JavaScript](https://img.icons8.com/dusk/64/javascript-logo.png) JS |
+|     6| ![SQL](https://img.icons8.com/dusk/64/sql.png) SQL |
 
 ### Applications
-![Anaconda](https://img.icons8.com/dusk/64/anaconda.png)
-![Visual Studio Code](https://img.icons8.com/dusk/64/visual-studio-code-2019.png)
-![Ibis Paint X](https://img.icons8.com/dusk/64/ibis-paint-x.png)
+| Index | Applications |
+|------:|-----------|
+|      1| ![Visual Studio Code](https://img.icons8.com/dusk/64/visual-studio-code-2019.png) VScode |
+|      2| ![Anaconda](https://img.icons8.com/dusk/64/anaconda.png) Anaconda |
+|      3| ![SQLite](https://img.icons8.com/dusk/64/database.png) SQLiteStudio |
+|      4| ![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png) RStudio |
+|      5| ![Ibis Paint X](https://img.icons8.com/dusk/64/ibis-paint-x.png) Ibis Paint X |
+|      6| Pycharm |
+|      7| Pyxel Edit |
 
-## Language
+## Spoken Languages
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+|     1| English   |
+|     2| Mandarin  |
+|     3| Malay     |
 
 ## Bye~
 
