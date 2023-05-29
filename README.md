@@ -15,13 +15,13 @@ I am in my 2nd year of my university degree in data science and genetics. Just s
 ![SQL](https://img.icons8.com/dusk/64/sql.png)
 
 ### Applications
-![Visual Studio Code](https://img.icons8.com/dusk/64/visual-studio-code-2019.png) VScode
-![Anaconda](https://img.icons8.com/dusk/64/anaconda.png) Anaconda |
-|      3| ![SQLite](https://img.icons8.com/dusk/64/database.png) SQLiteStudio |
-|      4| ![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png) RStudio |
-|      5| ![Ibis Paint X](https://img.icons8.com/dusk/64/ibis-paint-x.png) Ibis Paint X |
-|      6| Pycharm |
-|      7| Pyxel Edit |
+![Visual Studio Code](https://img.icons8.com/dusk/64/visual-studio-code-2019.png)
+![Anaconda](https://img.icons8.com/dusk/64/anaconda.png)
+![SQLite](https://img.icons8.com/dusk/64/database.png)
+![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png)
+![Ibis Paint X](https://img.icons8.com/dusk/64/ibis-paint-x.png)
+![Jupyter](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-shadow-tal-revivo.png)
+Pycharm | Pyxel Edit
 
 ## Spoken Languages
 
