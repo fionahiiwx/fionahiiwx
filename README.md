@@ -9,7 +9,7 @@ I am in my 2nd year of my university degree in data science and genetics. Just s
 ### Languages
 | Rank | Languages |
 |-----:|-----------|
-|     1| ![HTML5](https://img.icons8.com/dusk/64/html-5.png)|
+|     1| ![HTML5](https://img.icons8.com/dusk/64/html-5.png) HTML|
 |     2| Python    |
 |     3| SQL       |
 |     4| SQL       |
