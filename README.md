@@ -7,7 +7,12 @@ I am in my 2nd year of my university degree in data science and genetics. Just s
 ## Learning/Polishing
 
 ### Languages
-| ![Python](https://img.icons8.com/dusk/64/python.png) Python | ![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png) R | ![HTML5](https://img.icons8.com/dusk/64/html-5.png) HTML | ![CSS3](https://img.icons8.com/dusk/64/css3.png) CSS | ![JavaScript](https://img.icons8.com/dusk/64/javascript-logo.png) JS | ![SQL](https://img.icons8.com/dusk/64/sql.png) SQL |
+![Python](https://img.icons8.com/dusk/64/python.png)
+![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png)
+![HTML5](https://img.icons8.com/dusk/64/html-5.png)
+![CSS3](https://img.icons8.com/dusk/64/css3.png)
+![JavaScript](https://img.icons8.com/dusk/64/javascript-logo.png)
+![SQL](https://img.icons8.com/dusk/64/sql.png)
 
 ### Applications
 | Index | Applications |
