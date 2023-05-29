@@ -20,8 +20,7 @@ I am in my 2nd year of my university degree in data science and genetics. Just s
 ![SQLite](https://img.icons8.com/dusk/64/database.png)
 ![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png)
 ![Ibis Paint X](https://img.icons8.com/dusk/64/ibis-paint-x.png)
-![Jupyter](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-shadow-tal-revivo.png)
-Pycharm | Pyxel Edit
+Jupyter Notebook | Pycharm | Pyxel Edit
 
 ## Spoken Languages
 
