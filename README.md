@@ -4,36 +4,37 @@
 
 I am in my 2nd year of my university degree in data science and genetics. Just someone who really loves arts and then discovered the art of programming. All these repositories are either from university, youtube, websites or teachers. I started off with learning python which then expanded to R before heading to uni. In uni, I got to expand more knowledge towards SQL, HTML, Javascript, statistics and many more. In the meantime, I am also self discovering game development like using pygame. I am still discovering the many paths that I can take in the future, so right now, I shall just let my curious mind soar freely to discover many more wonderful things. As you can probably see from my repo, it is somewhat of a mess rightnow but it does reflect on how I am, always curious to learn all kinds of things. May the future me fill up this repo with many more wonderful ones, maybe even some projects that I will be satisfied with.
 
-<div style="display:flex;">
-  <div style="margin-right: 20px;">
-    <h2>Learning/Polishing</h2>
-    <h3>Languages</h3>
+## Learning/Polishing
 
-    | Rank | Languages |
-    |-----:|-----------|
-    |     1| ![Python](https://img.icons8.com/dusk/64/python.png) Python |
-    |     2| ![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png) R |
-    |     3| ![HTML5](https://img.icons8.com/dusk/64/html-5.png) HTML |
-    |     4| ![CSS3](https://img.icons8.com/dusk/64/css3.png) CSS |
-    |     5| ![JavaScript](https://img.icons8.com/dusk/64/javascript-logo.png) JS |
-    |     6| ![SQL](https://img.icons8.com/dusk/64/sql.png) SQL |
-  </div>
+<details>
+<summary>Languages</summary>
 
-  <div>
-    <h2>&nbsp;</h2>
-    <h3>Applications</h3>
+| Rank | Languages                                            |
+|------|------------------------------------------------------|
+| 1    | ![Python](https://img.icons8.com/dusk/64/python.png) Python |
+| 2    | ![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png) R     |
+| 3    | ![HTML5](https://img.icons8.com/dusk/64/html-5.png) HTML       |
+| 4    | ![CSS3](https://img.icons8.com/dusk/64/css3.png) CSS         |
+| 5    | ![JavaScript](https://img.icons8.com/dusk/64/javascript-logo.png) JS |
+| 6    | ![SQL](https://img.icons8.com/dusk/64/sql.png) SQL         |
 
-    | Index | Applications |
-    |------:|-----------|
-    |      1| ![Visual Studio Code](https://img.icons8.com/dusk/64/visual-studio-code-2019.png) VScode |
-    |      2| ![Anaconda](https://img.icons8.com/dusk/64/anaconda.png) Anaconda |
-    |      3| ![SQLite](https://img.icons8.com/dusk/64/database.png) SQLiteStudio |
-    |      4| ![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png) RStudio |
-    |      5| ![Ibis Paint X](https://img.icons8.com/dusk/64/ibis-paint-x.png) Ibis Paint X |
-    |      6| Pycharm |
-    |      7| Pyxel Edit |
-  </div>
-</div>
+</details>
+
+<details>
+<summary>Applications</summary>
+
+| Index | Applications                                             |
+|-------|----------------------------------------------------------|
+| 1     | ![Visual Studio Code](https://img.icons8.com/dusk/64/visual-studio-code-2019.png) VScode      |
+| 2     | ![Anaconda](https://img.icons8.com/dusk/64/anaconda.png) Anaconda       |
+| 3     | ![SQLite](https://img.icons8.com/dusk/64/database.png) SQLiteStudio  |
+| 4     | ![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png) RStudio     |
+| 5     | ![Ibis Paint X](https://img.icons8.com/dusk/64/ibis-paint-x.png) Ibis Paint X |
+| 6     | Pycharm                                                  |
+| 7     | Pyxel Edit                                               |
+
+</details>
+
 
 
 ## Spoken Languages
