@@ -6,36 +6,19 @@ I am in my 2nd year of my university degree in data science and genetics. Just s
 
 ## Learning/Polishing
 
-<details>
-<summary>Languages</summary>
+### Languages
+| ![Python](https://img.icons8.com/dusk/64/python.png) Python | ![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png) R | ![HTML5](https://img.icons8.com/dusk/64/html-5.png) HTML | ![CSS3](https://img.icons8.com/dusk/64/css3.png) CSS | ![JavaScript](https://img.icons8.com/dusk/64/javascript-logo.png) JS | ![SQL](https://img.icons8.com/dusk/64/sql.png) SQL |
 
-| Rank | Languages                                            |
-|------|------------------------------------------------------|
-| 1    | ![Python](https://img.icons8.com/dusk/64/python.png) Python |
-| 2    | ![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png) R     |
-| 3    | ![HTML5](https://img.icons8.com/dusk/64/html-5.png) HTML       |
-| 4    | ![CSS3](https://img.icons8.com/dusk/64/css3.png) CSS         |
-| 5    | ![JavaScript](https://img.icons8.com/dusk/64/javascript-logo.png) JS |
-| 6    | ![SQL](https://img.icons8.com/dusk/64/sql.png) SQL         |
-
-</details>
-
-<details>
-<summary>Applications</summary>
-
-| Index | Applications                                             |
-|-------|----------------------------------------------------------|
-| 1     | ![Visual Studio Code](https://img.icons8.com/dusk/64/visual-studio-code-2019.png) VScode      |
-| 2     | ![Anaconda](https://img.icons8.com/dusk/64/anaconda.png) Anaconda       |
-| 3     | ![SQLite](https://img.icons8.com/dusk/64/database.png) SQLiteStudio  |
-| 4     | ![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png) RStudio     |
-| 5     | ![Ibis Paint X](https://img.icons8.com/dusk/64/ibis-paint-x.png) Ibis Paint X |
-| 6     | Pycharm                                                  |
-| 7     | Pyxel Edit                                               |
-
-</details>
-
-
+### Applications
+| Index | Applications |
+|------:|-----------|
+|      1| ![Visual Studio Code](https://img.icons8.com/dusk/64/visual-studio-code-2019.png) VScode |
+|      2| ![Anaconda](https://img.icons8.com/dusk/64/anaconda.png) Anaconda |
+|      3| ![SQLite](https://img.icons8.com/dusk/64/database.png) SQLiteStudio |
+|      4| ![R Logo](https://img.icons8.com/dusk/64/registered-trademark.png) RStudio |
+|      5| ![Ibis Paint X](https://img.icons8.com/dusk/64/ibis-paint-x.png) Ibis Paint X |
+|      6| Pycharm |
+|      7| Pyxel Edit |
 
 ## Spoken Languages
 
