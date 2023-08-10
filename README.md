@@ -14,7 +14,7 @@ I am in my final year of my university degree in data science and genetics. Just
 ![JavaScript](https://img.icons8.com/dusk/64/javascript-logo.png)
 ![SQL](https://img.icons8.com/dusk/64/sql.png)
 ![React](https://img.icons8.com/dusk/64/react.png)
-!Django
+Django
 
 ### Applications
 ![Visual Studio Code](https://img.icons8.com/dusk/64/visual-studio-code-2019.png)
