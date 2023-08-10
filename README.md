@@ -2,7 +2,7 @@
 
 # Welcome To My GitHub! 
 
-I am in my 2nd year of my university degree in data science and genetics. Just someone who really loves arts and then discovered the art of programming. All these repositories are either from university, youtube, websites or teachers. I started off with learning python which then expanded to R before heading to uni. In uni, I got to expand more knowledge towards SQL, HTML, Javascript, statistics and many more. In the meantime, I am also self discovering game development like using pygame. I am still discovering the many paths that I can take in the future, so right now, I shall just let my curious mind soar freely to discover many more wonderful things. As you can probably see from my repo, it is somewhat of a mess rightnow but it does reflect on how I am, always curious to learn all kinds of things. May the future me fill up this repo with many more wonderful ones, maybe even some projects that I will be satisfied with.
+I am in my final year of my university degree in data science and genetics. Just someone who really loves arts and then discovered the art of programming. All these repositories are either from university, youtube, websites or teachers. I started off with learning Python which then expanded to R before heading to uni. In uni, I got to expand more knowledge towards SQL, HTML, Javascript, statistics and many more. In the meantime, I am also self-discovering game development like using pygame. I am still discovering the many paths that I can take in the future, so right now, I shall just let my curious mind soar freely to discover many more wonderful things. As you can probably see from my repo, it is somewhat of a mess right now but it does somewhat reflect on how I am, always curious to learn all kinds of things. May the future me fill up this repo with many more wonderful ones, maybe even some projects that I will be satisfied with.
 
 ## Learning/Polishing
 
@@ -13,6 +13,8 @@ I am in my 2nd year of my university degree in data science and genetics. Just s
 ![CSS3](https://img.icons8.com/dusk/64/css3.png)
 ![JavaScript](https://img.icons8.com/dusk/64/javascript-logo.png)
 ![SQL](https://img.icons8.com/dusk/64/sql.png)
+![React](https://icons8.com/icon/lVitPDXqQKP8/react)
+![Django]
 
 ### Applications
 ![Visual Studio Code](https://img.icons8.com/dusk/64/visual-studio-code-2019.png)
