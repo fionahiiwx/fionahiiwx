@@ -13,8 +13,8 @@ I am in my final year of my university degree in data science and genetics. Just
 ![CSS3](https://img.icons8.com/dusk/64/css3.png)
 ![JavaScript](https://img.icons8.com/dusk/64/javascript-logo.png)
 ![SQL](https://img.icons8.com/dusk/64/sql.png)
-![React](https://icons8.com/icon/lVitPDXqQKP8/react)
-![Django]
+![React](https://img.icons8.com/dusk/64/react.png)
+!Django
 
 ### Applications
 ![Visual Studio Code](https://img.icons8.com/dusk/64/visual-studio-code-2019.png)
