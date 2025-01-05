@@ -26,8 +26,9 @@ Just someone who really loves arts & crafts and then discovered the art of progr
 
 ### Extras
 
-Templates to make diy minibook of some of my favourite manga and animes.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W0HPXTF)
+
+Selling templates to make diy minibook of some of my favourite manga and animes.
 
 ## Spoken Languages
 
